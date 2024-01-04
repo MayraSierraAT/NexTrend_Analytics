@@ -47,23 +47,17 @@ A medida que el proyecto y el modelo se desarrollen, se contempla la posibilidad
 
 ## Alcance
 
-El proyecto se centrará en en ciudades específicas de Estados Unidos, Florida. Es esencial mencionar que este enfoque abarca el período entre 2017 y 2021, años que presentan datos especialmente relevantes según las fuentes obtenidas de Google Maps y Yelp. La elección de esta industria se fundamenta en su diversidad y relevancia dentro del contexto económico de Estados Unidos.
+El proyecto se centrará en el estado de Florida, Estados Unidos. Es esencial mencionar que este enfoque abarca el comercio de Bares. La elección de esta industria se fundamenta en su diversidad y relevancia dentro del contexto económico de Estados Unidos.
 
 ## Indicadores Clave - KPIs
 
-- `KPI 1` → Luego de analizar nuestro alcance de proyecto, y tener visto los estados y negocios que tendremos como proyecto, necesitamos observar una posible expansión del negocio para el año siguiente.
-La expansión de un nuevo local implica la revisión y análisis de riesgos sobre la nueva ubicación, es de vital importancia saber sobre el lugar donde estará nuestro nuevo negocio, la cantidad de población y el acceso económico de ésta
-Como medida extra, dejo la página web comercial que me pareció
-más relevante para éste KPI:
-https://www.crexi.com/
+- `KPI 1` → Muestra el promedio de puntuaciones en estrellas en Google. El objetivo a medir del KPI sería mantenerse en 4 estrellas en comparación al semestre anterior, indicando el deseo por mantener altas calificaciones en promedio.
 
-- `KPI 2` → Evaluar la proporción de reseñas positivas respecto al total de reseñas. Un incremento del 5% con respecto al trimestre anterior refleja los esfuerzos constantes por elevar la satisfacción del cliente en Yelp. (Índice de satisfacción del cliente)
-  
-- `KPI 3` →
-  
-- `KPI 4` → 
+- `KPI 2` → El primer KPI, ilustra el ciumnplimuiento o no de 1 a 2 estrellas, en aquellos Bares que tienen máximo 3 en un semestre en comparación al semestre anterior
 
-Estos indicadores clave (KPIs) son herramientas fundamentales para valorar y dirigir el rendimiento del Bar "" en las plataformas de Yelp y Google. Cada uno posee metas concretas con el fin de expandirse a otros estados manteniendo la calidad y .
+- `KPI 3` → Evaluar la proporción de reseñas positivas respecto al total de reseñas. Un incremento del 15% con respecto al trimestre anterior refleja los esfuerzos constantes por elevar la satisfacción del cliente. Es imperativo que todo negocio que busque una posible expansión o mejora en su rating, le brinde una buena atención a los clientes
+
+- `KPI 4` → Examinar la capacidad de responder a las reseñas en Google, con la meta de superar en un 10% el rendimiento del mes previo, evidenciando la intención de mejorar la comunicación y el compromiso con los clientes.
 
 ## Flujo de trabajo
 
