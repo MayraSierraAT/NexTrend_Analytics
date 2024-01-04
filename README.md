@@ -40,8 +40,6 @@ Este proyecto busca no solo alcanzar el éxito económico, sino también posicio
 
 ## Objetivo
 
-<p align=center><img src= "https://www.bluescitydeli.com/wp/wp-content/uploads/2023/10/bcd-website-20year.png" width=400> </p>
-
 El propósito principal de este proyecto es ofrecer a "Golden Investors" las mas excelentes posiciones en el estado de Florida. La elección del estado de Florida se basa en un análisis de datos que determina la representatividad de esta muestra y sugiere un modelo extrapolativo (de proyección) para el resto del país. Las diferencias geográficas, el turismo interno y externo, así como la diversidad de la población, proporcionan una comprensión más profunda de la situación general y nos capacitan para ofrecer recomendaciones más fundamentadas a nuestro cliente.
 A medida que el proyecto y el modelo se desarrollen, se contempla la posibilidad de expandir su alcance a distintas ciudades dentro del estado de Florida.
 
