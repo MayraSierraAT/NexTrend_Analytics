@@ -54,8 +54,22 @@ Estos indicadores clave (KPIs) son herramientas fundamentales para valorar y dir
 
 ## Metodología 
 
+El equipo utiliza la metodología Scrum, el cual se centra en la colaboración, la flexibilidad y la entrega incremental de productos o resultados. Aquí hay una visión general de sus principios y elementos clave:
+
+`Roles en Scrum`
+-	Product Owner: Responsable de definir y priorizar las funcionalidades del producto y mantener la visión general.
+-	Scrum Master: Encargado de garantizar que el equipo siga los principios de Scrum, eliminando obstáculos y facilitando el proceso.
+-	Equipo de Desarrollo: Grupo multifuncional que trabaja para entregar el producto final.
+  
+`Eventos en Scrum`
+-	Sprint: Período de tiempo corto y fijo (usualmente de 1 a 4 semanas) en el que se desarrolla, prueba y entrega un incremento del producto.
+-	Reunión de Planificación del Sprint: Al inicio del Sprint, el equipo y el Product Owner seleccionan las tareas a realizar durante el Sprint.
+-	Daily Standup (Scrum Diario): Breve reunión diaria donde cada miembro del equipo comparte qué ha hecho desde la última reunión, qué hará hasta la próxima y si enfrenta algún obstáculo.
+-	Revisión del Sprint: Al finalizar el Sprint, el equipo presenta el trabajo realizado y recibe retroalimentación del Product Owner y de los stakeholders.
+-	Retrospectiva del Sprint: Reunión al final del Sprint donde el equipo analiza qué funcionó bien, qué se puede mejorar y cómo aplicar esos cambios en el próximo Sprint.
+
+
 ## Tecnologías
-> Python: Streamlit, Pandas, Numpy, Request, Seaborn, Matplotlib
 
 ## Documentación
 
