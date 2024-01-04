@@ -34,7 +34,7 @@ Este proyecto busca no solo alcanzar el éxito económico, sino también posicio
 
 ### Equipo de trabajo
 
-| <img src="https://media.licdn.com/dms/image/D4D35AQFpQHr9pYizkA/profile-framedphoto-shrink_800_800/0/1695659112940?e=1704945600&v=beta&t=P1t-prtvCZeXPVdjTrFTZGBWYjCHyDU-vtedYT-kfA8" width=100> | <img src="https://avatars.githubusercontent.com/u/123905946?v=4" width=100> | <img src="https://avatars.githubusercontent.com/u/112497761?v=4" width=100> | <img src="/src/Hans.jfif" width=100> | <img src="https://media.licdn.com/dms/image/D4E03AQECG26Wygaa_A/profile-displayphoto-shrink_800_800/0/1687742730455?e=1709769600&v=beta&t=n7LkLmLBx2dqpkL6AdxcvY632uUREuXpbY0jK0EngTU" width=100> |
+| <img src="/src/fotofrente.jpg" width=100> | <img src="https://avatars.githubusercontent.com/u/123905946?v=4" width=100> | <img src="https://avatars.githubusercontent.com/u/112497761?v=4" width=100> | <img src="/src/Hans.jfif" width=100> | <img src="https://media.licdn.com/dms/image/D4E03AQECG26Wygaa_A/profile-displayphoto-shrink_800_800/0/1687742730455?e=1709769600&v=beta&t=n7LkLmLBx2dqpkL6AdxcvY632uUREuXpbY0jK0EngTU" width=100> |
 |:---------------:|:---------:|:---------:|:---------:|:---------:| 
 |<sub> Walter Amengual (https://www.linkedin.com/in/sumakorama/)</sub>|<sub> Mayra Sierra Torres (https://www.linkedin.com/in/mayrasierraat/)</sub>|<sub> Guido Ignacio Lujan (https://www.linkedin.com/in/guido-lujan/)</sub>|<sub> Hans Pulido Santiago (https://www.linkedin.com/in/hans-pulido001/)</sub>|<sub> Gerardo Cortijo (https://www.linkedin.com/in/gerardocor175/)</sub> |
 
