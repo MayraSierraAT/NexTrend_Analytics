@@ -1,7 +1,13 @@
 # NexTrend_Analytics
 
 <h3 align="center">Google & Yelp Data Analytics Project</h3>
-![Alt text](src/logo.png)
+
+<br />
+<div align="center">
+  <a href="https://github.com/MayraSierraAT/NexTrend_Analytics">
+    <img src="/src/logo.png" alt="Logo">
+  </a>
+</div>
 
 ## Indice
 
