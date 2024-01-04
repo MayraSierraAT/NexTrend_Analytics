@@ -30,7 +30,7 @@ Nuestro propósito es ofrecer soluciones personalizadas para cada cliente, recon
 
 El mercado de bares en Florida es dinámico y diverso, con una amplia gama de preferencias y estilos. La colaboración con NexTrend Analytics se presenta como una oportunidad estratégica para evaluar no solo la viabilidad financiera, sino también para comprender la dinámica social, las tendencias emergentes y las preferencias del consumidor en esta región.
 
-Este proyecto busca no solo alcanzar el éxito económico, sino también posicionarse como un referente en la oferta de entretenimiento y servicios de calidad en la industria de la hostelería. La apuesta por la experiencia y el conocimiento especializado de NexTrend Analytics es un paso crucial en el camino hacia la excelencia en este nuevo rubro para el grupo de inversionistas ABC."
+Este proyecto busca no solo alcanzar el éxito económico, sino también posicionarse como un referente en la oferta de entretenimiento y servicios de calidad en la industria de la hostelería. La apuesta por la experiencia y el conocimiento especializado de NexTrend Analytics es un paso crucial en el camino hacia la excelencia en este nuevo rubro para el grupo de inversionistas "Golden Investors"
 
 ### Equipo de trabajo
 
