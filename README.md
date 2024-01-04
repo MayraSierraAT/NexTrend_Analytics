@@ -20,7 +20,7 @@ Nuestro propósito es ofrecer soluciones personalizadas para cada cliente, recon
 
 ### Equipo de trabajo
 
-| <img src="https://media.licdn.com/dms/image/D4E03AQECG26Wygaa_A/profile-displayphoto-shrink_800_800/0/1687742730455?e=1709769600&v=beta&t=n7LkLmLBx2dqpkL6AdxcvY632uUREuXpbY0jK0EngTU" width=100> | <img src="https://media.licdn.com/dms/image/D4D35AQFpQHr9pYizkA/profile-framedphoto-shrink_800_800/0/1695659112940?e=1704945600&v=beta&t=P1t-prtvCZeXPVdjTrFTZGBWYjCHyDU-vtedYT-kfA8" width=100> | <img src="https://media.licdn.com/media/AAYQAQSOAAgAAQAAAAAAAB-zrMZEDXI2T62PSuT6kpB6qg.png" width=100> | <img src="/src/Guido.jpg" width=100> | <img src="/src/Hans.jfif" width=100> |
+| <img src="https://media.licdn.com/dms/image/D4E03AQECG26Wygaa_A/profile-displayphoto-shrink_800_800/0/1687742730455?e=1709769600&v=beta&t=n7LkLmLBx2dqpkL6AdxcvY632uUREuXpbY0jK0EngTU" width=100> | <img src="https://media.licdn.com/dms/image/D4D35AQFpQHr9pYizkA/profile-framedphoto-shrink_800_800/0/1695659112940?e=1704945600&v=beta&t=P1t-prtvCZeXPVdjTrFTZGBWYjCHyDU-vtedYT-kfA8" width=100> | <img src="https://avatars.githubusercontent.com/u/123905946?v=4" width=100> | <img src="/src/Guido.jpg" width=100> | <img src="/src/Hans.jfif" width=100> |
 |:---------------:|:---------:|:---------:|:---------:|:---------:| 
 |<sub> Gerardo Cortijo (https://www.linkedin.com/in/gerardocor175/)</sub>|<sub> Walter Amengual (https://www.linkedin.com/in/sumakorama/)</sub>|<sub> Mayra Sierra Torres (https://www.linkedin.com/in/mayrasierraat/)</sub>|<sub> Guido Ignacio Lujan (https://www.linkedin.com/in/guido-lujan/)</sub>|<sub> Hans Pulido Santiago (https://www.linkedin.com/in/hans-pulido001/)</sub>|
 
@@ -33,19 +33,29 @@ A medida que el proyecto y el modelo se desarrollen, se contempla la posibilidad
 
 ## Alcance
 
+El proyecto se centrará en el Bar "Bues City Deli" en ciudades específicas de Estados Unidos: California, Nueva York y Florida. Es esencial mencionar que este enfoque abarca el período entre 2017 y 2021, años que presentan datos especialmente relevantes según las fuentes obtenidas de Google Maps y Yelp. La elección de esta industria se fundamenta en su diversidad y relevancia dentro del contexto económico de Estados Unidos.
 
 
 ## Indicadores Clave - KPIs
 
-`KPI 1` - 
+- `KPI 1` → Luego de analizar nuestro alcance de proyecto, y tener visto los estados y negocios que tendremos como proyecto, necesitamos observar una posible expansión del negocio para el año siguiente.
+La expansión de un nuevo local implica la revisión y análisis de riesgos sobre la nueva ubicación, es de vital importancia saber sobre el lugar donde estará nuestro nuevo negocio, la cantidad de población y el acceso económico de ésta
+Como medida extra, dejo la página web comercial que me pareció
+más relevante para éste KPI:
+https://www.crexi.com/
 
-## Tecnologías
+- `KPI 2` → Evaluar la proporción de reseñas positivas respecto al total de reseñas. Un incremento del 5% con respecto al trimestre anterior refleja los esfuerzos constantes por elevar la satisfacción del cliente en Yelp. (Índice de satisfacción del cliente)
+- `KPI 3` → 
+- `KPI 4` → 
 
-## Diagrama de Gantt
+Estos indicadores clave (KPIs) son herramientas fundamentales para valorar y dirigir el rendimiento del Bar "" en las plataformas de Yelp y Google. Cada uno posee metas concretas con el fin de expandirse a otros estados manteniendo la calidad y .
 
 ## Flujo de trabajo
 
 ## Metodología 
+
+## Tecnologías
+> Python: Streamlit, Pandas, Numpy, Request, Seaborn, Matplotlib
 
 ## Documentación
 
@@ -53,7 +63,7 @@ Aquí hallarás unos atajos para explorar los archivos almacenados en el reposit
 
 - **General** [(link)]() → Información pertinente al proyecto completo.
     - `Consigna` [(link)]() → La instrucción entregada por Henry incluye enlaces a los conjuntos de datos, detalles sobre el contexto del proyecto, las responsabilidades asignadas, los entregables requeridos y otra información relevante para el proyecto.
-    -  `Diagrama de Gantt` [(link)]() →  En este diagrama de Gantt encontrarán las tareas que se llevaron a cabo en el proyecto, con información adicional como por ejemplo, quien las hizo y en qué momento del proyecto.
+    -  `Diagrama de Gantt` [(link)](https://github.com/MayraSierraAT/NexTrend_Analytics/blob/main/General/Diagrama%20de%20Gantt.pdf) →  En este diagrama de Gantt encontrarán las tareas que se llevaron a cabo en el proyecto, con información adicional como por ejemplo, quien las hizo y en qué momento del proyecto.
     -  `Presentación 01` [(link)]() →  Corresponde a la presentación de la primera semana de trabajo.
 
 > [!WARNING]\
