@@ -58,7 +58,9 @@ más relevante para éste KPI:
 https://www.crexi.com/
 
 - `KPI 2` → Evaluar la proporción de reseñas positivas respecto al total de reseñas. Un incremento del 5% con respecto al trimestre anterior refleja los esfuerzos constantes por elevar la satisfacción del cliente en Yelp. (Índice de satisfacción del cliente)
-- `KPI 3` → 
+  
+- `KPI 3` →
+  
 - `KPI 4` → 
 
 Estos indicadores clave (KPIs) son herramientas fundamentales para valorar y dirigir el rendimiento del Bar "" en las plataformas de Yelp y Google. Cada uno posee metas concretas con el fin de expandirse a otros estados manteniendo la calidad y .
