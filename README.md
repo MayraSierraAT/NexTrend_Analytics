@@ -14,11 +14,11 @@
 
 ## Introducción
 
-"El grupo de inversionistas 'Golden Investors' ha identificado el mercado de bares en el estado de Florida, Estados Unidos, como una oportunidad clave para su próxima inversión estratégica. Reconociendo la importancia de comprender a fondo este sector competitivo y dinámico, han contratado los servicios especializados de 'NexTrend Analytics'. Esta firma consultora se destaca por su capacidad para realizar análisis detallados del mercado y, en este caso particular, ha emprendido un estudio exhaustivo del paisaje de bares en Florida.
+El grupo de inversionistas 'Golden Investors' ha identificado el mercado de bares en el estado de Florida, Estados Unidos, como una oportunidad clave para su próxima inversión estratégica. Reconociendo la importancia de comprender a fondo este sector competitivo y dinámico, han contratado los servicios especializados de 'NexTrend Analytics'. Esta firma consultora se destaca por su capacidad para realizar análisis detallados del mercado y, en este caso particular, ha emprendido un estudio exhaustivo del paisaje de bares en Florida.
 
-Conscientes de la relevancia de las opiniones de los clientes en la toma de decisiones empresariales, 'NexTrend Analytics' ha empleado técnicas avanzadas para analizar el sentimiento de los usuarios en plataformas como Yelp. Este enfoque orientado hacia el consumidor permite brindar a los inversionistas una visión holística y precisa de las preferencias, expectativas y tendencias dentro de este mercado.
+Conscientes de la relevancia de las opiniones de los clientes en la toma de decisiones empresariales, 'NexTrend Analytics' ha empleado técnicas avanzadas para analizar el sentimiento de los usuarios en plataformas como Yelp y Google. Este enfoque orientado hacia el consumidor permite brindar a los inversionistas una visión holística y precisa de las preferencias, expectativas y tendencias dentro de este mercado.
 
-El objetivo de esta asociación estratégica es proporcionar a los empresarios una perspectiva informada y datos fundamentales que respalden sus decisiones de inversión. A través de este análisis, se busca no solo minimizar riesgos, sino también identificar oportunidades prometedoras para asegurar el éxito de la inversión en el vibrante sector de los bares en Florida."
+El objetivo de esta asociación estratégica es proporcionar una perspectiva informada y datos fundamentales que respalden sus decisiones de inversión. A través de este análisis, se busca no solo minimizar riesgos, sino también identificar oportunidades prometedoras para asegurar el éxito de la inversión en el vibrante sector de los bares en Florida.
 
 
 ## ¿Quienes somos?
@@ -34,7 +34,7 @@ Este proyecto busca no solo alcanzar el éxito económico, sino también posicio
 
 ### Equipo de trabajo
 
-| <img src="/src/fotofrente.jpg" width=100> | <img src="https://avatars.githubusercontent.com/u/123905946?v=4" width=100> | <img src="/src/Guido.jpg" width=100> | <img src="/src/Hans.jfif" width=100> | <img src="https://media.licdn.com/dms/image/D4E03AQECG26Wygaa_A/profile-displayphoto-shrink_800_800/0/1687742730455?e=1709769600&v=beta&t=n7LkLmLBx2dqpkL6AdxcvY632uUREuXpbY0jK0EngTU" width=100> |
+| <img src="https://media.licdn.com/dms/image/D4D35AQFpQHr9pYizkA/profile-framedphoto-shrink_800_800/0/1695659112940?e=1704945600&v=beta&t=P1t-prtvCZeXPVdjTrFTZGBWYjCHyDU-vtedYT-kfA8" width=100> | <img src="https://avatars.githubusercontent.com/u/123905946?v=4" width=100> | <img src="https://avatars.githubusercontent.com/u/112497761?v=4" width=100> | <img src="/src/Hans.jfif" width=100> | <img src="https://media.licdn.com/dms/image/D4E03AQECG26Wygaa_A/profile-displayphoto-shrink_800_800/0/1687742730455?e=1709769600&v=beta&t=n7LkLmLBx2dqpkL6AdxcvY632uUREuXpbY0jK0EngTU" width=100> |
 |:---------------:|:---------:|:---------:|:---------:|:---------:| 
 |<sub> Walter Amengual (https://www.linkedin.com/in/sumakorama/)</sub>|<sub> Mayra Sierra Torres (https://www.linkedin.com/in/mayrasierraat/)</sub>|<sub> Guido Ignacio Lujan (https://www.linkedin.com/in/guido-lujan/)</sub>|<sub> Hans Pulido Santiago (https://www.linkedin.com/in/hans-pulido001/)</sub>|<sub> Gerardo Cortijo (https://www.linkedin.com/in/gerardocor175/)</sub> |
 
@@ -42,13 +42,12 @@ Este proyecto busca no solo alcanzar el éxito económico, sino también posicio
 
 <p align=center><img src= "https://www.bluescitydeli.com/wp/wp-content/uploads/2023/10/bcd-website-20year.png" width=400> </p>
 
-El propósito principal de este proyecto es proporcionar una buena posición al nuevo establecimiento de Bar “Bues City Deli” en los estados de California, Nueva York, y Florida. La elección de estos estados se basa en un análisis de datos que determina la representatividad de esta muestra y sugiere un modelo extrapolativo (de proyección) para el resto del país. Las diferencias geográficas, el turismo interno y externo, así como la diversidad de la población, proporcionan una comprensión más profunda de la situación general y nos capacitan para ofrecer recomendaciones más fundamentadas a nuestro cliente.
-A medida que el proyecto y el modelo se desarrollen, se contempla la posibilidad de expandir su alcance a nivel nacional y eventualmente a otros países donde  esté presente.
+El propósito principal de este proyecto es ofrecer a "Golden Investors" las mas excelentes posiciones en el estado de Florida. La elección del estado de Florida se basa en un análisis de datos que determina la representatividad de esta muestra y sugiere un modelo extrapolativo (de proyección) para el resto del país. Las diferencias geográficas, el turismo interno y externo, así como la diversidad de la población, proporcionan una comprensión más profunda de la situación general y nos capacitan para ofrecer recomendaciones más fundamentadas a nuestro cliente.
+A medida que el proyecto y el modelo se desarrollen, se contempla la posibilidad de expandir su alcance a distintas ciudades dentro del estado de Florida.
 
 ## Alcance
 
-El proyecto se centrará en el Bar "Bues City Deli" en ciudades específicas de Estados Unidos: California, Nueva York y Florida. Es esencial mencionar que este enfoque abarca el período entre 2017 y 2021, años que presentan datos especialmente relevantes según las fuentes obtenidas de Google Maps y Yelp. La elección de esta industria se fundamenta en su diversidad y relevancia dentro del contexto económico de Estados Unidos.
-
+El proyecto se centrará en en ciudades específicas de Estados Unidos, Florida. Es esencial mencionar que este enfoque abarca el período entre 2017 y 2021, años que presentan datos especialmente relevantes según las fuentes obtenidas de Google Maps y Yelp. La elección de esta industria se fundamenta en su diversidad y relevancia dentro del contexto económico de Estados Unidos.
 
 ## Indicadores Clave - KPIs
 
