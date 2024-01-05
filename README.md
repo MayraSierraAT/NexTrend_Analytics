@@ -51,7 +51,7 @@ El proyecto se centrará en el estado de Florida, Estados Unidos. Es esencial me
 
 - `KPI 1` → Muestra el promedio de puntuaciones en estrellas en Google. El objetivo a medir del KPI sería mantenerse en 4 estrellas en comparación al semestre anterior, indicando el deseo por mantener altas calificaciones en promedio.
 
-- `KPI 2` → El primer KPI, ilustra el ciumnplimuiento o no de 1 a 2 estrellas, en aquellos Bares que tienen máximo 3 en un semestre en comparación al semestre anterior
+- `KPI 2` → Ilustra el ciumnplimuiento o no de 1 a 2 estrellas, en aquellos Bares que tienen máximo 3 en un semestre en comparación al semestre anterior
 
 - `KPI 3` → Evaluar la proporción de reseñas positivas respecto al total de reseñas. Un incremento del 15% con respecto al trimestre anterior refleja los esfuerzos constantes por elevar la satisfacción del cliente. Es imperativo que todo negocio que busque una posible expansión o mejora en su rating, le brinde una buena atención a los clientes
 
