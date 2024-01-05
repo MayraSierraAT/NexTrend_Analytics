@@ -47,20 +47,24 @@ El mercado de bares en Florida es dinámico y diverso, con una amplia gama de pr
 
 Este proyecto busca no solo alcanzar el éxito económico, sino también posicionarse como un referente en la oferta de entretenimiento y servicios de calidad en la industria de la hostelería. La apuesta por la experiencia y el conocimiento especializado de NexTrend Analytics es un paso crucial en el camino hacia la excelencia en este nuevo rubro para el grupo de inversionistas "Golden Investors"
 
-### Equipo de trabajo
+
+## Equipo de trabajo
 
 | <img src="/src/fotofrente.jpg" width=100> | <img src="https://avatars.githubusercontent.com/u/123905946?v=4" width=100> | <img src="https://avatars.githubusercontent.com/u/112497761?v=4" width=100> | <img src="/src/Hans.jfif" width=100> | <img src="/src/ger.jpeg" width=100> |
 |:---------------:|:---------:|:---------:|:---------:|:---------:| 
 |<sub> Walter Amengual (https://www.linkedin.com/in/sumakorama/)</sub>|<sub> Mayra Sierra Torres (https://www.linkedin.com/in/mayrasierraat/)</sub>|<sub> Guido Ignacio Lujan (https://www.linkedin.com/in/guido-lujan/)</sub>|<sub> Hans Pulido Santiago (https://www.linkedin.com/in/hans-pulido001/)</sub>|<sub> Gerardo Cortijo (https://www.linkedin.com/in/gerardocor175/)</sub> |
+
 
 ## Objetivo
 
 El propósito principal de este proyecto es ofrecer a "Golden Investors" las mas excelentes posiciones en el estado de Florida. La elección del estado de Florida se basa en un análisis de datos que determina la representatividad de esta muestra y sugiere un modelo extrapolativo (de proyección) para el resto del país. Las diferencias geográficas, el turismo interno y externo, así como la diversidad de la población, proporcionan una comprensión más profunda de la situación general y nos capacitan para ofrecer recomendaciones más fundamentadas a nuestro cliente.
 A medida que el proyecto y el modelo se desarrollen, se contempla la posibilidad de expandir su alcance a distintas ciudades dentro del estado de Florida.
 
+
 ## Alcance
 
 El proyecto se centrará en el estado de Florida, Estados Unidos. Es esencial mencionar que este enfoque abarca el comercio de Bares. La elección de esta industria se fundamenta en su diversidad y relevancia dentro del contexto económico de Estados Unidos.
+
 
 ## Indicadores Clave - KPIs
 
@@ -71,6 +75,7 @@ El proyecto se centrará en el estado de Florida, Estados Unidos. Es esencial me
 - `KPI 3` → Evaluar la proporción de reseñas positivas respecto al total de reseñas. Un incremento del 15% con respecto al trimestre anterior refleja los esfuerzos constantes por elevar la satisfacción del cliente. Es imperativo que todo negocio que busque una posible expansión o mejora en su rating, le brinde una buena atención a los clientes
 
 - `KPI 4` → Examinar la capacidad de responder a las reseñas en Google, con la meta de superar en un 10% el rendimiento del mes previo, evidenciando la intención de mejorar la comunicación y el compromiso con los clientes.
+
 
 ## Metodología 
 
