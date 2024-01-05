@@ -76,6 +76,11 @@ El equipo utiliza la metodología Scrum, el cual se centra en la colaboración, 
 
 ## Tecnologías
 
+- VS
+- Python
+- Power BI
+- Cloude
+
 ## Documentación
 
 Aquí hallarás unos atajos para explorar los archivos almacenados en el repositorio.
