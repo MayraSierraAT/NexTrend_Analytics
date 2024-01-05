@@ -24,7 +24,7 @@
     <li><a href="#Alcance">Alcance</a></li>
     <li><a href="#Indicadores Clave - KPIs">KPIs</a></li>
     <li><a href="#Metodología">Metodología</a>
-    <li><a href="Tecnologías">Tecnologías</a></li>
+    <li><a href="#Tecnologías">Tecnologías</a></li>
     <li><a href="#Documentación">Documentación</a></li>
   </ol>
 </details>
