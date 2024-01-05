@@ -57,8 +57,6 @@ El proyecto se centrará en el estado de Florida, Estados Unidos. Es esencial me
 
 - `KPI 4` → Examinar la capacidad de responder a las reseñas en Google, con la meta de superar en un 10% el rendimiento del mes previo, evidenciando la intención de mejorar la comunicación y el compromiso con los clientes.
 
-## Flujo de trabajo
-
 ## Metodología 
 
 El equipo utiliza la metodología Scrum, el cual se centra en la colaboración, la flexibilidad y la entrega incremental de productos o resultados. Aquí hay una visión general de sus principios y elementos clave:
