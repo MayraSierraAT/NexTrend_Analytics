@@ -17,7 +17,7 @@
     <li><a href="#Introducción">Introducción</a></li>
     <li><a href="#¿Quiénes-Somos?">¿Quiénes Somos?</a></li>
     <li><a href="#Equipo-de-Trabajo">Equipo de Trabajo</a></li>
-    <li><a href="#Objetivos">Objetivo</a></li>
+    <li><a href="#Objetivo">Objetivo</a></li>
     <li><a href="#Alcance">Alcance</a></li>
     <li><a href="#Indicadores-Clave---KPIs">KPIs</a></li>
     <li><a href="#Metodología">Metodología</a></li>
