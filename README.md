@@ -15,7 +15,7 @@
   <summary>Tabla de contenidos</summary>
   <ol>
     <li><a href="#Introducción">Introducción</a></li>
-    <li><a href="#¿Quiénes-Somos?">¿Quiénes Somos?</a></li>
+    <li><a href="#¿ Quiénes-Somos ?">¿ Quiénes Somos ?</a></li>
     <li><a href="#Equipo-de-Trabajo">Equipo de Trabajo</a></li>
     <li><a href="#Objetivo">Objetivo</a></li>
     <li><a href="#Alcance">Alcance</a></li>
@@ -36,7 +36,7 @@ Conscientes de la relevancia de las opiniones de los clientes en la toma de deci
 El objetivo de esta asociación estratégica es proporcionar una perspectiva informada y datos fundamentales que respalden sus decisiones de inversión. A través de este análisis, se busca no solo minimizar riesgos, sino también identificar oportunidades prometedoras para asegurar el éxito de la inversión en el vibrante sector de los bares en Florida.
 
 
-## ¿Quiénes somos?
+## ¿ Quiénes somos ?
 
 Somos NexTrend Analytics, una firma consultora especializada en el análisis empresarial que emplea de manera innovadora la ciencia de datos para impulsar el éxito de las empresas. Con un equipo de experimentados científicos de datos en el sector, nos enfocamos en convertir datos en información valiosa que orienta decisiones estratégicas y otorga una ventaja competitiva en el mercado.
 Nuestro propósito es ofrecer soluciones personalizadas para cada cliente, reconociendo la singularidad de cada negocio y los desafíos específicos que enfrenta. Trabajamos en estrecha colaboración con nuestros clientes para comprender sus metas y requisitos, aplicando luego avanzadas técnicas de análisis de datos para obtener información relevante.
