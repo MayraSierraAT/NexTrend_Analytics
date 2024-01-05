@@ -85,7 +85,7 @@ Aquí hallarás unos atajos para explorar los archivos almacenados en el reposit
 - **General** [(link)](https://github.com/MayraSierraAT/NexTrend_Analytics/tree/main/General) → Información pertinente al proyecto completo.
     - `Consigna` [(link)](https://github.com/soyHenry/PF_DS/blob/FULL-TIME/Proyectos/yelp-goople.md) → La instrucción entregada por Henry incluye enlaces a los conjuntos de datos, detalles sobre el contexto del proyecto, las responsabilidades asignadas, los entregables requeridos y otra información relevante para el proyecto.
     -  `Diagrama de Gantt` [(link)](https://github.com/MayraSierraAT/NexTrend_Analytics/blob/main/General/Diagrama%20de%20Gantt.pdf) →  En este diagrama de Gantt encontrarán las tareas que se llevaron a cabo en el proyecto, con información adicional como por ejemplo, quien las hizo y en qué momento del proyecto.
-    -  `Presentación 01` [(link)]() →  Corresponde a la presentación de la primera semana de trabajo.
+    -  `Presentación 01` [(link)](https://ejemplopagg.my.canva.site/nextrend-analytics) →  Corresponde a la presentación de la primera semana de trabajo.
 
 > [!WARNING]\
 > Este proyecto constituye una práctica académica y de desarrollo de habilidades. Los datos, técnicas de análisis, así como los resultados o conclusiones presentados, son totalmente ficticios y no deben considerarse como representativos de la realidad. No se busca otorgar a este proyecto aplicaciones prácticas o comerciales en un entorno real, siendo su único propósito la demostración de conocimientos y habilidades en el ámbito de la ciencia de datos y análisis de datos.
