@@ -107,10 +107,10 @@ El equipo utiliza la metodología Scrum, el cual se centra en la colaboración, 
 ![BigQuery](https://img.shields.io/badge/BigQuery-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 
 ## Pipeline General
-<img src="/src/PIPELINE-GENERAL.png" width=100>
+<img src="/src/PIPELINE-GENERAL.png" width=500>
 
 ## Pipeline ETL
-<img src="/src/PIPELINE-ETL.png" width=100>
+<img src="/src/PIPELINE-ETL.png" width=500>
 
 Diagrama ER [(Aquí)](https://github.com/MayraSierraAT/NexTrend_Analytics/blob/main/General/NextrendER.PDF)
 Diccionario de datos [(Aquí)](https://github.com/MayraSierraAT/NexTrend_Analytics/blob/main/General/Diccionario%20de%20Datos.xlsx)
