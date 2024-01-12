@@ -58,12 +58,12 @@ Este proyecto busca no solo alcanzar el éxito económico, sino también posicio
 ## Objetivo
 
 El propósito principal de este proyecto es ofrecer a "Golden Investors" las mas excelentes posiciones en el estado de Florida. La elección del estado de Florida se basa en un análisis de datos que determina la representatividad de esta muestra y sugiere un modelo extrapolativo (de proyección) para el resto del país. Las diferencias geográficas, el turismo interno y externo, así como la diversidad de la población, proporcionan una comprensión más profunda de la situación general y nos capacitan para ofrecer recomendaciones más fundamentadas a nuestro cliente.
-A medida que el proyecto y el modelo se desarrollen, se contempla la posibilidad de expandir su alcance a distintas ciudades dentro del estado de Florida.
+A medida que el proyecto y el modelo se desarrollen, se contempla la posibilidad de expandir su alcance a distintas regiones dentro del estado de Florida.
 
 
 ## Alcance
 
-El proyecto se centrará en el estado de Florida, Estados Unidos. Es esencial mencionar que este enfoque abarca el comercio de Bares. La elección de esta industria se fundamenta en su diversidad y relevancia dentro del contexto económico de Estados Unidos.
+El proyecto se centrará en Condados de Pinellas y Hillsborough del estado de Florida, Estados Unidos. Es esencial mencionar que este enfoque abarca el comercio de Bares. La elección de esta industria se fundamenta en su diversidad y relevancia dentro del contexto económico de Estados Unidos.
 
 
 ## Indicadores Clave - KPIs
@@ -96,10 +96,24 @@ El equipo utiliza la metodología Scrum, el cual se centra en la colaboración, 
 
 ## Tecnologías
 
-- VS
-- Python
-- Power BI
-- Cloude
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
+![BigQuery](https://img.shields.io/badge/BigQuery-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+
+## Pipeline General
+<img src="/src/PIPELINE-GENERAL.png" width=100>
+
+## Pipeline ETL
+<img src="/src/PIPELINE-ETL.png" width=100>
+
+Diagrama ER [(Aquí)](https://github.com/MayraSierraAT/NexTrend_Analytics/blob/main/General/NextrendER.PDF)
+Diccionario de datos [(Aquí)](https://github.com/MayraSierraAT/NexTrend_Analytics/blob/main/General/Diccionario%20de%20Datos.xlsx)
 
 ## Documentación
 
@@ -109,6 +123,7 @@ Aquí hallarás unos atajos para explorar los archivos almacenados en el reposit
     - `Consigna` [(link)](https://github.com/soyHenry/PF_DS/blob/FULL-TIME/Proyectos/yelp-goople.md) → La instrucción entregada por Henry incluye enlaces a los conjuntos de datos, detalles sobre el contexto del proyecto, las responsabilidades asignadas, los entregables requeridos y otra información relevante para el proyecto.
     -  `Diagrama de Gantt` [(link)](https://github.com/MayraSierraAT/NexTrend_Analytics/blob/main/General/Diagrama%20de%20Gantt.pdf) →  En este diagrama de Gantt encontrarán las tareas que se llevaron a cabo en el proyecto, con información adicional como por ejemplo, quien las hizo y en qué momento del proyecto.
     -  `Presentación 01` [(link)](https://ejemplopagg.my.canva.site/nextrend-analytics) →  Corresponde a la presentación de la primera semana de trabajo.
+    -  `Presentación 02` [(link)]() →  Corresponde a la presentación de la segunda semana de trabajo.
 
 > [!WARNING]\
 > Este proyecto constituye una práctica académica y de desarrollo de habilidades. Los datos, técnicas de análisis, así como los resultados o conclusiones presentados, son totalmente ficticios y no deben considerarse como representativos de la realidad. No se busca otorgar a este proyecto aplicaciones prácticas o comerciales en un entorno real, siendo su único propósito la demostración de conocimientos y habilidades en el ámbito de la ciencia de datos y análisis de datos.
