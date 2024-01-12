@@ -107,21 +107,18 @@ El equipo utiliza la metodología Scrum, el cual se centra en la colaboración, 
 ![BigQuery](https://img.shields.io/badge/BigQuery-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 
 ## Pipeline General
-<img src="/src/PIPELINE-GENERAL.png" width=500>
+<img src="/src/PIPELINE-GENERAL.png" width=700>
 
 ## Pipeline ETL
-<img src="/src/PIPELINE-ETL.png" width=500>
+<img src="/src/PIPELINE-ETL.png" width=700>
 
 La ejecución del proceso ETL (Extracción, Transformación y Carga) desempeña un papel crucial en nuestro proyecto al facilitar la preparación y procesamiento eficientes de los datos. Este flujo de trabajo detalla las diversas fases del proceso ETL, haciendo uso de las herramientas proporcionadas por Google Cloud Platform (GCP).
 
-1. Fuente de datos
-Durante este paso, las fuentes de datos constituyen el punto de inicio del proceso ETL. Estas fuentes albergan información cruda que nos interesa analizar, como las evaluaciones de Google y Yelp, además de otros datos pertinentes para nuestro proyecto.
+1. Fuente de datos: Durante este paso, las fuentes de datos constituyen el punto de inicio del proceso ETL. Estas fuentes albergan información cruda que nos interesa analizar, como las evaluaciones de Google y Yelp, además de otros datos pertinentes para nuestro proyecto.
 
-2. Ingesta de datos
-Una vez que hemos obtenido nuestras fuentes de datos, la fase subsiguiente implica la ingestión de datos. Durante este proceso, los datos son trasladados desde las fuentes hacia nuestro "Cloud Storage", que desempeña el papel de nuestro "Data Lake". Google Cloud Storage sirve como un espacio seguro y escalable destinado a almacenar los datos en su forma original, salvaguardando su integridad.
+2. Ingesta de datos: Una vez que hemos obtenido nuestras fuentes de datos, la fase subsiguiente implica la ingestión de datos. Durante este proceso, los datos son trasladados desde las fuentes hacia nuestro "Cloud Storage", que desempeña el papel de nuestro "Data Lake". Google Cloud Storage sirve como un espacio seguro y escalable destinado a almacenar los datos en su forma original, salvaguardando su integridad.
 
-3. Transformación
-Durante esta fase, empleamos BigQuery, una base de datos en la nube proporcionada por Google Cloud Platform (GCP), para llevar a cabo consultas y análisis de los datos. Esta acción nos capacita para examinar y comprender más a fondo la estructura de los datos, detectar patrones y tendencias, y realizar análisis exploratorios de datos (EDA) con el objetivo de obtener perspicacia inicial.
+3. Procesamiento: Durante esta fase, empleamos BigQuery, una base de datos en la nube proporcionada por Google Cloud Platform (GCP), para llevar a cabo consultas y análisis de los datos. Esta acción nos capacita para examinar y comprender más a fondo la estructura de los datos, detectar patrones y tendencias, y realizar análisis exploratorios de datos (EDA) con el objetivo de obtener perspicacia inicial.
 
 Diagrama ER [(Aquí)](https://github.com/MayraSierraAT/NexTrend_Analytics/blob/main/General/NextrendER.PDF)
 Diccionario de datos [(Aquí)](https://github.com/MayraSierraAT/NexTrend_Analytics/blob/main/General/Diccionario%20de%20Datos.xlsx)
