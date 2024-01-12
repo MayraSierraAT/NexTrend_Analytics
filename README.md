@@ -65,6 +65,7 @@ A medida que el proyecto y el modelo se desarrollen, se contempla la posibilidad
 
 El proyecto se centrará en Condados de Pinellas y Hillsborough del estado de Florida, Estados Unidos. Es esencial mencionar que este enfoque abarca el comercio de Bares. La elección de esta industria se fundamenta en su diversidad y relevancia dentro del contexto económico de Estados Unidos.
 
+<img src="/src/florida-regions.jpg" width=500>
 
 ## Indicadores Clave - KPIs
 
@@ -107,10 +108,10 @@ El equipo utiliza la metodología Scrum, el cual se centra en la colaboración, 
 ![BigQuery](https://img.shields.io/badge/BigQuery-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 
 ## Pipeline General
-<img src="/src/PIPELINE-GENERAL.png" width=700>
+<img src="/src/PIPELINE-GENERAL.png" width=500>
 
 ## Pipeline ETL
-<img src="/src/PIPELINE-ETL.png" width=700>
+<img src="/src/PIPELINE-ETL.png" width=500>
 
 La ejecución del proceso ETL (Extracción, Transformación y Carga) desempeña un papel crucial en nuestro proyecto al facilitar la preparación y procesamiento eficientes de los datos. Este flujo de trabajo detalla las diversas fases del proceso ETL, haciendo uso de las herramientas proporcionadas por Google Cloud Platform (GCP).
 
