@@ -80,20 +80,43 @@ El proyecto se centrará en Condados de Pinellas y Hillsborough del estado de Fl
 
 ## Metodología 
 
-El equipo utiliza la metodología Scrum, el cual se centra en la colaboración, la flexibilidad y la entrega incremental de productos o resultados. Aquí hay una visión general de sus principios y elementos clave:
+**¿Cuál es la esencia de la metodología ágil Scrum?** Scrum promueve la colaboración dentro de un equipo con el objetivo de lograr tareas de manera exitosa en un periodo de tiempo reducido. Este enfoque no solo aumenta las probabilidades de éxito en un proyecto, sino que también impulsa el aprendizaje y la cohesión del equipo en cualquier organización que aspire a incorporar valores como flexibilidad, comunicación, innovación y productividad, entre otros.
 
 `Roles en Scrum`
 -	Product Owner: Responsable de definir y priorizar las funcionalidades del producto y mantener la visión general.
 -	Scrum Master: Encargado de garantizar que el equipo siga los principios de Scrum, eliminando obstáculos y facilitando el proceso.
 -	Equipo de Desarrollo: Grupo multifuncional que trabaja para entregar el producto final.
   
+**¿Cuál es la dinámica de la metodología Scrum?** La metodología Scrum sigue un proceso que consta de cinco pasos, respaldados por consejos que actúan como herramientas para garantizar su eficacia. Estos pasos son los siguientes:
+ 
 `Eventos en Scrum`
--	Sprint: Período de tiempo corto y fijo (usualmente de 1 a 4 semanas) en el que se desarrolla, prueba y entrega un incremento del producto.
--	Reunión de Planificación del Sprint: Al inicio del Sprint, el equipo y el Product Owner seleccionan las tareas a realizar durante el Sprint.
--	Daily Standup (Scrum Diario): Breve reunión diaria donde cada miembro del equipo comparte qué ha hecho desde la última reunión, qué hará hasta la próxima y si enfrenta algún obstáculo.
--	Revisión del Sprint: Al finalizar el Sprint, el equipo presenta el trabajo realizado y recibe retroalimentación del Product Owner y de los stakeholders.
--	Retrospectiva del Sprint: Reunión al final del Sprint donde el equipo analiza qué funcionó bien, qué se puede mejorar y cómo aplicar esos cambios en el próximo Sprint.
 
+**Paso 1: Recopilación de información**
+En esta fase, también conocida como Product Backlog, se centra en obtener información sobre el proyecto, recopilando datos y detalles relevantes para los pasos posteriores. Esto abarca el estado actual del proyecto, los objetivos a alcanzar y las prioridades a satisfacer.
+
+Después de establecer algunos objetivos generales, se procede a la siguiente etapa.
+
+**Paso 2: Planificación del Sprint**
+En este punto, se definen las actividades individuales, los criterios de entrega y las fechas correspondientes. La planificación se realiza considerando las capacidades laborales y profesionales de cada miembro del equipo.
+
+**Paso 3: Ejecución del Sprint**
+Finalmente, el equipo se embarca en la ejecución de sus tareas asignadas, generalmente en un período que no excede un mes, completando así el Sprint.
+
+**Paso 4: Reunión diaria de equipo estilo Scrum o daily scrum**
+Estas reuniones, que ocurren a diario y duran aproximadamente 15 minutos, permiten que cada miembro del equipo responda a preguntas específicas:
+
+- ¿En qué trabajaste ayer?
+- ¿Cuál es tu plan para hoy?
+- ¿Hay algún obstáculo que necesite ser resuelto?
+
+Estas reuniones rápidamente abordan los obstáculos que puedan surgir, facilitando el flujo continuo de trabajo.
+
+**Paso 5: Revisión del Sprint**
+Esta etapa implica revisiones exhaustivas de las tareas realizadas, similar a un control sobre el estado del proyecto. También se fomenta la reflexión y evaluación para identificar áreas de mejora:
+
+- ¿El equipo percibe algún error?
+- ¿Qué desafíos y dificultades surgieron?
+- ¿Qué éxitos se han alcanzado y qué prácticas positivas pueden repetirse?
 
 ## Tecnologías
 
