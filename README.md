@@ -69,9 +69,9 @@ El proyecto se centrará en Condados de Pinellas y Hillsborough del estado de Fl
 
 ## Indicadores Clave - KPIs
 
-- `KPI 1` → Muestra el promedio de puntuaciones en estrellas de los bares. El objetivo a medir del KPI sería mantenerse en 4 estrellas en comparación al semestre anterior, indicando el deseo por mantener altas calificaciones en promedio.
+- `KPI 1` → Muestra el promedio de puntuaciones en estrellas de los bares. El objetivo a medir del KPI sería mantenerse en 4 estrellas en comparación al trimestre anterior, indicando el deseo por mantener altas calificaciones en promedio.
 
-- `KPI 2` → Ilustra el cumplimiento o no de 1 a 2 estrellas, en aquellos Bares que tienen máximo 3 en un semestre en comparación al semestre anterior
+- `KPI 2` → Ilustra el cumplimiento o no de 1 a 2 estrellas, en aquellos Bares que tienen máximo 3 en un trimestre en comparación al semestre anterior
 
 - `KPI 3` → Evaluar la proporción de reseñas positivas respecto al total de reseñas. Un incremento del 15% con respecto al trimestre anterior refleja los esfuerzos constantes por elevar la satisfacción del cliente. Es imperativo que todo negocio que busque una posible expansión o mejora en su rating, le brinde una buena atención a los clientes
 
