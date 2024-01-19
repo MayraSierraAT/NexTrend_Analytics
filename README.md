@@ -158,6 +158,8 @@ Aquí hallarás unos atajos para explorar los archivos almacenados en el reposit
 - **General** [(link)](https://github.com/MayraSierraAT/NexTrend_Analytics/tree/main/General) → Información pertinente al proyecto completo.
     - `Consigna` [(link)](https://github.com/soyHenry/PF_DS/blob/FULL-TIME/Proyectos/yelp-goople.md) → La instrucción entregada por Henry incluye enlaces a los conjuntos de datos, detalles sobre el contexto del proyecto, las responsabilidades asignadas, los entregables requeridos y otra información relevante para el proyecto.
     -  `Diagrama de Gantt` [(link)](https://github.com/MayraSierraAT/NexTrend_Analytics/blob/main/General/Diagrama%20de%20Gantt.pdf) →  En este diagrama de Gantt encontrarán las tareas que se llevaron a cabo en el proyecto, con información adicional como por ejemplo, quien las hizo y en qué momento del proyecto.
+    -  `Diccionario de datos` [(link)](https://github.com/MayraSierraAT/NexTrend_Analytics/blob/main/General/Diccionario%20de%20Datos.xlsx)
+    -  `Diagrama DER` [(link)](https://github.com/MayraSierraAT/NexTrend_Analytics/blob/main/General/NextrendER.PDF)
 - **Data Engineer** [(link)](https://github.com/MayraSierraAT/NexTrend_Analytics/tree/main/General) → Información pertinente al trabajo realizado en el area de Data Engineer.
 - **Data Analytics** [(link)](https://github.com/MayraSierraAT/NexTrend_Analytics/tree/main/General) → Información pertinente al trabajo realizado en el area de Data Analytics.
 
