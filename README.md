@@ -29,24 +29,16 @@
 
 ## Introducción
 
-El grupo de inversionistas 'Golden Investors' ha identificado el mercado de bares en el estado de Florida, Estados Unidos, como una oportunidad clave para su próxima inversión estratégica. Reconociendo la importancia de comprender a fondo este sector competitivo y dinámico, han contratado los servicios especializados de 'NexTrend Analytics'. Esta firma consultora se destaca por su capacidad para realizar análisis detallados del mercado y, en este caso particular, ha emprendido un estudio exhaustivo del paisaje de bares en Florida.
+El grupo de inversionistas 'Golden Investors' ha identificado el mercado de bares en el estado de Florida, Estados Unidos, como una oportunidad clave para su próxima inversión estratégica. Reconociendo la importancia de comprender a fondo este sector competitivo y dinámico, han contratado los servicios especializados de 'NexTrend Analytics'. Esta firma consultora se destaca por su capacidad para realizar análisis detallados del mercado y, en este caso particular, ha emprendido un estudio exhaustivo del paisaje de bares en EE. UU.
 
 Conscientes de la relevancia de las opiniones de los clientes en la toma de decisiones empresariales, 'NexTrend Analytics' ha empleado técnicas avanzadas para analizar el sentimiento de los usuarios en plataformas como Yelp y Google. Este enfoque orientado hacia el consumidor permite brindar a los inversionistas una visión holística y precisa de las preferencias, expectativas y tendencias dentro de este mercado.
 
-El objetivo de esta asociación estratégica es proporcionar una perspectiva informada y datos fundamentales que respalden sus decisiones de inversión. A través de este análisis, se busca no solo minimizar riesgos, sino también identificar oportunidades prometedoras para asegurar el éxito de la inversión en el vibrante sector de los bares en Florida.
+El objetivo de esta asociación estratégica es proporcionar una perspectiva informada y datos fundamentales que respalden sus decisiones de inversión. A través de este análisis, se busca no solo minimizar riesgos, sino también identificar oportunidades prometedoras para asegurar el éxito de la inversión en el vibrante sector de los bares en EE. UU.
 
 
 ## Sobre Nosotros
 
-Somos NexTrend Analytics, una firma consultora especializada en el análisis empresarial que emplea de manera innovadora la ciencia de datos para impulsar el éxito de las empresas. Con un equipo de experimentados científicos de datos en el sector, nos enfocamos en convertir datos en información valiosa que orienta decisiones estratégicas y otorga una ventaja competitiva en el mercado.
-Nuestro propósito es ofrecer soluciones personalizadas para cada cliente, reconociendo la singularidad de cada negocio y los desafíos específicos que enfrenta. Trabajamos en estrecha colaboración con nuestros clientes para comprender sus metas y requisitos, aplicando luego avanzadas técnicas de análisis de datos para obtener información relevante.
-
-El objetivo de esta sociedad es poder asegurar una nueva inversión de forma exitosa tomando en cuenta las opiniones de los clientes de esta tipología de negocios en la plataforma Yelp y Google, proporcionando a estos empresarios un análisis de sentimiento y así recomendar en qué lugares específicos de Florida sería más propicio establecer su nuevo emprendimiento.
-
-El mercado de bares en Florida es dinámico y diverso, con una amplia gama de preferencias y estilos. La colaboración con NexTrend Analytics se presenta como una oportunidad estratégica para evaluar no solo la viabilidad financiera, sino también para comprender la dinámica social, las tendencias emergentes y las preferencias del consumidor en esta región.
-
-Este proyecto busca no solo alcanzar el éxito económico, sino también posicionarse como un referente en la oferta de entretenimiento y servicios de calidad en la industria de la hostelería. La apuesta por la experiencia y el conocimiento especializado de NexTrend Analytics es un paso crucial en el camino hacia la excelencia en este nuevo rubro para el grupo de inversionistas "Golden Investors"
-
+Somos NexTrend Analytics, una firma consultora especializada en el análisis empresarial que emplea de manera innovadora la ciencia de datos para impulsar el éxito de las empresas. Con un equipo de experimentados científicos de datos en el sector, nos enfocamos en convertir datos en información valiosa que orienta decisiones estratégicas y otorga una ventaja competitiva en el mercado. Nuestro propósito es ofrecer soluciones personalizadas para cada cliente, reconociendo la singularidad de cada negocio y los desafíos específicos que enfrenta. Trabajamos en estrecha colaboración con nuestros clientes para comprender sus metas y requisitos, aplicando luego avanzadas técnicas de análisis de datos para obtener información relevante.
 
 ## Equipo de trabajo
 
@@ -57,8 +49,10 @@ Este proyecto busca no solo alcanzar el éxito económico, sino también posicio
 
 ## Objetivo
 
-El propósito principal de este proyecto es ofrecer a "Golden Investors" las mas excelentes posiciones en el estado de Florida. La elección del estado de Florida se basa en un análisis de datos que determina la representatividad de esta muestra y sugiere un modelo extrapolativo (de proyección) para el resto del país. Las diferencias geográficas, el turismo interno y externo, así como la diversidad de la población, proporcionan una comprensión más profunda de la situación general y nos capacitan para ofrecer recomendaciones más fundamentadas a nuestro cliente.
-A medida que el proyecto y el modelo se desarrollen, se contempla la posibilidad de expandir su alcance a distintas regiones dentro del estado de Florida.
+El objetivo de esta sociedad es poder asegurar una nueva inversión de forma exitosa tomando en cuenta las opiniones de los clientes de esta tipología de negocios en la plataforma Yelp y Google, proporcionando a estos empresarios una página de suscripción acerca del mercado de bares en EE. UU.
+
+El mercado de bares en EE. UU. es dinámico y diverso, con una amplia gama de preferencias y estilos. La colaboración con NexTrend Analytics se presenta como una oportunidad estratégica para evaluar no solo la viabilidad financiera, sino también para comprender la dinámica social, las tendencias emergentes y las preferencias del consumidor en esta región.
+Este proyecto busca no solo alcanzar el éxito económico, sino también posicionarse como un referente en la oferta de entretenimiento y servicios de calidad en la industria de la gastronomía. 
 
 
 ## Alcance
