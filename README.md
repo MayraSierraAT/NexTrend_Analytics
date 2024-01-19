@@ -63,19 +63,17 @@ A medida que el proyecto y el modelo se desarrollen, se contempla la posibilidad
 
 ## Alcance
 
-El proyecto se centrará en Condados de Pinellas y Hillsborough del estado de Florida, Estados Unidos. Es esencial mencionar que este enfoque abarca el comercio de Bares. La elección de esta industria se fundamenta en su diversidad y relevancia dentro del contexto económico de Estados Unidos.
+El proyecto se centrará en Ciudad de Tampa del estado de Florida, Estados Unidos. Es esencial mencionar que este enfoque abarca el comercio de Bares. La elección de esta industria se fundamenta en su diversidad y relevancia dentro del contexto económico de Estados Unidos.
 
 <img src="/src/florida-regions.jpg" width=500>
 
 ## Indicadores Clave - KPIs
 
-- `KPI 1` → Muestra el promedio de puntuaciones en estrellas de los bares. El objetivo a medir del KPI sería mantenerse en 4 estrellas en comparación al trimestre anterior, indicando el deseo por mantener altas calificaciones en promedio.
+- `KPI 1` → Muestra el promedio de puntuaciones en estrellas de los bares. El objetivo a medir del KPI sería mantenerse en 4 estrellas en comparación al año anterior, indicando el deseo por mantener altas calificaciones en promedio.
 
-- `KPI 2` → Ilustra el cumplimiento o no de 1 a 2 estrellas, en aquellos Bares que tienen máximo 3 en un trimestre en comparación al semestre anterior
+- `KPI 2` → Ilustra el cumplimiento o no del aumento de 1 a 2 estrellas, en aquellos Bares que tienen máximo 3 en un trimestre en comparación al semestre anterior
 
-- `KPI 3` → Evaluar la proporción de reseñas positivas respecto al total de reseñas. Un incremento del 15% con respecto al trimestre anterior refleja los esfuerzos constantes por elevar la satisfacción del cliente. Es imperativo que todo negocio que busque una posible expansión o mejora en su rating, le brinde una buena atención a los clientes
-
-- `KPI 4` → Examinar la capacidad de responder a las reseñas en Google, con la meta de superar en un 10% el rendimiento del mes previo, evidenciando la intención de mejorar la comunicación y el compromiso con los clientes.
+- `KPI 3` → Evaluar la proporción de reseñas positivas respecto al total de reseñas. Un incremento del 15% con respecto al trimestre anterior refleja los esfuerzos constantes por elevar la satisfacción del cliente. Es imperativo que todo negocio que busque mejora en su rating, le brinde una buena atención a los clientes
 
 
 ## Metodología 
