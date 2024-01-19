@@ -133,10 +133,10 @@ Esta etapa implica revisiones exhaustivas de las tareas realizadas, similar a un
 ![BigQuery](https://img.shields.io/badge/BigQuery-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 
 ## Pipeline General
-<img src="/src/PIPELINE-GENERAL.png" width=500>
+<img src="/src/PIPELINE GENERAL.png" width=500>
 
 ## Pipeline ETL
-<img src="/src/PIPELINE-ETL.png" width=500>
+<img src="/src/PIPELINE ETL.png" width=500>
 
 La ejecución del proceso ETL (Extracción, Transformación y Carga) desempeña un papel crucial en nuestro proyecto al facilitar la preparación y procesamiento eficientes de los datos. Este flujo de trabajo detalla las diversas fases del proceso ETL, haciendo uso de las herramientas proporcionadas por Google Cloud Platform (GCP).
 
