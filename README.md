@@ -147,6 +147,10 @@ Este flujo del proceso ETL en Google Cloud Platform ilustra cómo los datos se d
 Diagrama ER [(Aquí)](https://github.com/MayraSierraAT/NexTrend_Analytics/blob/main/General/NextrendER.PDF)
 Diccionario de datos [(Aquí)](https://github.com/MayraSierraAT/NexTrend_Analytics/blob/main/General/Diccionario%20de%20Datos.xlsx)
 
+## Dashboard
+
+Dentro de nuestro proyecto, hemos desarrollado un dashboard integral que proporciona información esencial y visualizaciones detalladas derivadas del análisis de datos. Puedes acceder al archivo a través del siguiente enlace: [(Enlace al Dashboard)]().
+
 ## Documentación
 
 Aquí hallarás unos atajos para explorar los archivos almacenados en el repositorio.
