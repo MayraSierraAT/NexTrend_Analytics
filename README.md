@@ -164,7 +164,11 @@ Aquí hallarás unos atajos para explorar los archivos almacenados en el reposit
 - **Data Engineer** [(link)](https://github.com/MayraSierraAT/NexTrend_Analytics/tree/main/General) → Información pertinente al trabajo realizado en el area de Data Engineer.
 - **Data Analytics** [(link)](https://github.com/MayraSierraAT/NexTrend_Analytics/blob/4f033f667b5fbe45ac6c439f7895f989e6cb8f03/Data%20analytics/ProyectoFinal_EDA.ipynb) → Información pertinente al trabajo realizado en el area de Data Analytics.
 - **Data Science**
-    - 'Deploy ML' [(Link)](https://machinelearning-finalproject.onrender.com/docs) → Deploy del modelo de MachineLearning
+    - `GitHub ML` [(Link)](https://github.com/Guido097/ML_FinalProject) → Repositorio Modelo de Machine-Learning.
+    - `Deploy ML` [(Link)](https://machinelearning-finalproject.onrender.com/docs) → Deploy del modelo de Machine-Learning.
+- **Producto**
+    - `GitHub WEB` [(Link)](https://github.com/KamusDroid/Nextrend_next.js)] → Repositorio de página web.
+      
 
 > [!WARNING]\
 > Este proyecto constituye una práctica académica y de desarrollo de habilidades. Los datos, técnicas de análisis, así como los resultados o conclusiones presentados, son totalmente ficticios y no deben considerarse como representativos de la realidad. No se busca otorgar a este proyecto aplicaciones prácticas o comerciales en un entorno real, siendo su único propósito la demostración de conocimientos y habilidades en el ámbito de la ciencia de datos y análisis de datos.
