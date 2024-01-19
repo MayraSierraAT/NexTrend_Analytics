@@ -149,7 +149,7 @@ Diccionario de datos [(Aquí)](https://github.com/MayraSierraAT/NexTrend_Analyti
 
 ## Dashboard
 
-Dentro de nuestro proyecto, hemos desarrollado un dashboard integral que proporciona información esencial y visualizaciones detalladas derivadas del análisis de datos. Puedes acceder al archivo a través del siguiente enlace: [(Enlace al Dashboard)]().
+Dentro de nuestro proyecto, hemos desarrollado un dashboard integral que proporciona información esencial y visualizaciones detalladas derivadas del análisis de datos. Puedes acceder al archivo a través del siguiente enlace: [(Enlace al Dashboard)](https://app.powerbi.com/links/dMW9_1FaKR?ctid=fd69ce1b-20c6-42ec-b54e-6d1b3870ac6e&pbi_source=linkShare&bookmarkGuid=ea8a223a-ff80-4ac6-b5b6-feaff387dc06).
 
 ## Documentación
 
