@@ -130,13 +130,19 @@ Esta etapa implica revisiones exhaustivas de las tareas realizadas, similar a un
 ## Pipeline ETL
 <img src="/src/PIPELINE ETL.png" width=500>
 
-La ejecución del proceso ETL (Extracción, Transformación y Carga) desempeña un papel crucial en nuestro proyecto al facilitar la preparación y procesamiento eficientes de los datos. Este flujo de trabajo detalla las diversas fases del proceso ETL, haciendo uso de las herramientas proporcionadas por Google Cloud Platform (GCP).
+La ejecución del proceso ETL (Extracción, Transformación y Carga) desempeña un papel crucial en nuestro proyecto al facilitar la preparación y procesamiento eficientes de los datos. En nuestro enfoque, utilizamos las herramientas de Google Cloud Platform (GCP) para llevar a cabo las distintas fases de este proceso.
 
-1. Fuente de datos: Durante este paso, las fuentes de datos constituyen el punto de inicio del proceso ETL. Estas fuentes albergan información cruda que nos interesa analizar, como las evaluaciones de Google y Yelp, además de otros datos pertinentes para nuestro proyecto.
+1. **Origen de Datos:** En esta fase, las fuentes de datos sirven como el punto de entrada del proceso ETL, conteniendo datos en su forma original que necesitamos analizar, como reseñas de Google y Yelp, junto con otros datos pertinentes para nuestro proyecto.
 
-2. Ingesta de datos: Una vez que hemos obtenido nuestras fuentes de datos, la fase subsiguiente implica la ingestión de datos. Durante este proceso, los datos son trasladados desde las fuentes hacia nuestro "Cloud Storage", que desempeña el papel de nuestro "Data Lake". Google Cloud Storage sirve como un espacio seguro y escalable destinado a almacenar los datos en su forma original, salvaguardando su integridad.
+2. **Ingestión de Datos:** Una vez que contamos con nuestras fuentes de datos, el siguiente paso implica la ingestión de datos. Durante esta etapa, los datos se trasladan desde las fuentes hacia nuestro "Cloud Storage", actuando como nuestro "Data Lake". Google Cloud Storage proporciona un espacio seguro y escalable para almacenar los datos sin procesar en su formato original, salvaguardando su integridad.
 
-3. Procesamiento: Durante esta fase, empleamos BigQuery, una base de datos en la nube proporcionada por Google Cloud Platform (GCP), para llevar a cabo consultas y análisis de los datos. Esta acción nos capacita para examinar y comprender más a fondo la estructura de los datos, detectar patrones y tendencias, y realizar análisis exploratorios de datos (EDA) con el objetivo de obtener perspicacia inicial.
+3. **Procesamiento y Exploración de Datos:** En esta etapa, empleamos BigQuery, una base de datos en la nube de GCP, para realizar consultas y análisis de datos. Esto nos permite explorar la estructura de los datos, identificar patrones y tendencias, y realizar análisis exploratorios de datos (EDA) para obtener conocimientos iniciales.
+
+4. **Transformación de Datos:** Después de la exploración inicial, avanzamos a la etapa de transformación de datos. Aquí, aprovechamos Vertex AI Notebooks, entornos de desarrollo colaborativo basados en Jupyter Notebook, para aplicar transformaciones y limpieza avanzada a los datos. Esto incluye tareas como lematización, eliminación de palabras vacías y categorización de sentimientos, así como ingeniería de características para mejorar el análisis.
+
+5. **Almacén de Datos:** Finalmente, en la fase de Almacén de Datos, los datos transformados se almacenan nuevamente en BigQuery. En este punto, los datos han sido procesados, depurados y enriquecidos, estando listos para utilizarse en análisis más avanzados, generación de informes o construcción de modelos de Machine Learning. Aquí podemos ejecutar consultas SQL complejas para extraer información específica o preparar los datos para análisis posterior.
+
+Este flujo del proceso ETL en Google Cloud Platform ilustra cómo los datos se desplazan desde las fuentes hasta un sistema de almacenamiento en la nube, son explorados, transformados y finalmente almacenados en un depósito de datos, listos para su análisis. Cada fase utiliza las herramientas y servicios adecuados de GCP para garantizar un procesamiento eficiente y de alta calidad en cada paso.
 
 Diagrama ER [(Aquí)](https://github.com/MayraSierraAT/NexTrend_Analytics/blob/main/General/NextrendER.PDF)
 Diccionario de datos [(Aquí)](https://github.com/MayraSierraAT/NexTrend_Analytics/blob/main/General/Diccionario%20de%20Datos.xlsx)
