@@ -160,7 +160,7 @@ Aquí hallarás unos atajos para explorar los archivos almacenados en el reposit
     -  `Diagrama de Gantt` [(link)](https://github.com/MayraSierraAT/NexTrend_Analytics/blob/main/General/Diagrama%20de%20Gantt.pdf) →  En este diagrama de Gantt encontrarán las tareas que se llevaron a cabo en el proyecto, con información adicional como por ejemplo, quien las hizo y en qué momento del proyecto.
     -  `Diccionario de datos` [(link)](https://github.com/MayraSierraAT/NexTrend_Analytics/blob/main/General/Diccionario%20de%20Datos.xlsx)
     -  `Diagrama DER` [(link)](https://github.com/MayraSierraAT/NexTrend_Analytics/blob/main/General/NextrendER.PDF)
-    -  `Pipeline workflow` [(link)( https://lucid.app/documents/view/a56238dc-3991-4bbd-b76b-9622db2ccce2 )]
+    -  `Pipeline workflow` [(link)([ [https://lucid.app/documents/view/a56238dc-3991-4bbd-b76b-9622db2ccce2](https://lucid.app/lucidchart/a56238dc-3991-4bbd-b76b-9622db2ccce2/edit?viewport_loc=-1876%2C-690%2C5512%2C2135%2C0_0&invitationId=inv_b0d1acc4-2c68-4bd3-a026-fca3a05b9c6f)](https://lucid.app/lucidchart/a56238dc-3991-4bbd-b76b-9622db2ccce2/edit?viewport_loc=-311%2C17%2C2468%2C956%2C0_0&invitationId=inv_b0d1acc4-2c68-4bd3-a026-fca3a05b9c6f) )]
 - **Data Engineer** [(link)](https://github.com/MayraSierraAT/NexTrend_Analytics/tree/main/General) → Información pertinente al trabajo realizado en el area de Data Engineer.
 - **Data Analytics** [(link)](https://github.com/MayraSierraAT/NexTrend_Analytics/tree/main/General) → Información pertinente al trabajo realizado en el area de Data Analytics.
 
